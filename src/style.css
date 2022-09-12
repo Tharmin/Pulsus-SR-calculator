@@ -1,0 +1,7 @@
+body {
+    background-color: #0b110d;
+}
+
+#fileUpload {
+    visibility: hidden;
+}
